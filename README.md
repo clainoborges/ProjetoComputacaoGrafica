@@ -17,5 +17,3 @@ https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/a67cbf5
 
 Entrega da Tarefa 4 de Computação Gráfica - Hello3D - Phong
 https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/7641c6c3-0972-4fc4-bb21-459d3362dc3e
-
-https://github-production-user-asset-6210df.s3.amazonaws.com/42672979/248814310-8bd4a1e5-0023-47bd-8fcd-a006e6defdb0.mp4
