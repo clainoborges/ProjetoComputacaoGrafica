@@ -4,6 +4,7 @@ Repositório com os projetos desenvolvidos para a aula de Computação Gráfica
 Nome: Claino Henrique Borges Bechert
 
 Entrega da Tarefa 1 de Computação Gráfica  -  Hello3D
+https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/c3f91b24-5f4e-4599-8d7f-3d83557a17c3
 
 Entrega da Tarefa 2 de Computação Gráfica - Hello3D - withShaderClass
 https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/9f661997-87ff-473d-91f5-342bad11664f
