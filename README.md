@@ -19,4 +19,4 @@ Entrega da Tarefa 4 de Computação Gráfica - Hello3D - Phong
 https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/7641c6c3-0972-4fc4-bb21-459d3362dc3e
 
 Entrega da Tarefa 5 de Computação Gráfica - Hello3D - Camera
-https://github.com/clainoborges/ProjetoComputacaoGrafica/blob/main/RESULTM5.md
+![image](https://github.com/clainoborges/ProjetoComputacaoGrafica/blob/main/RESULTM5.md)
