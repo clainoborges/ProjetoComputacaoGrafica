@@ -20,3 +20,6 @@ https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/7641c6c
 
 Entrega da Tarefa 5 de Computação Gráfica - Hello3D - Camera
 ![M5 Camera](https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/71812015-2911-4197-807d-0b31d8307aeb)
+
+Entrega da Tarefa 6 de Computação Gráfica - Hello3D - Trajetoria
+![M6 Trajetoria](https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/6c6b2ea1-daa3-4ad4-95ba-a36294fdc6eb)
