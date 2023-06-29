@@ -17,3 +17,6 @@ https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/a67cbf5
 
 Entrega da Tarefa 4 de Computação Gráfica - Hello3D - Phong
 https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/7641c6c3-0972-4fc4-bb21-459d3362dc3e
+
+Entrega da Tarefa 5 de Computação Gráfica - Hello3D - Camera
+![M5 Camera](https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/71812015-2911-4197-807d-0b31d8307aeb)
