@@ -25,6 +25,7 @@ Entrega da Tarefa 6 de Computação Gráfica - Hello3D - Trajetoria
 ![M6 Trajetoria](https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/6c6b2ea1-daa3-4ad4-95ba-a36294fdc6eb)
 
 Entrega da Tarefa Final do Grau B de Computação Gráfica - provaGB 
+
 Autores: Claino Henrique Borges Bechert e Natalia Nunes Jahnke
 
 https://github.com/clainoborges/ProjetoComputacaoGrafica/assets/42672979/5eba0f4d-9120-48de-8825-2b4a3e6e091a
